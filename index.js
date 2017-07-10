@@ -1,3 +1,5 @@
+const Promise = require('promise-polyfill');
+
 const dummySearch = require('./dummy_query');
 const dummyBook = require('./dummy_book');
 const config = {

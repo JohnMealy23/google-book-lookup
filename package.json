@@ -12,6 +12,7 @@
   "author": "john.mealy@gmail.com",
   "license": "ISC",
   "dependencies": {
+    "promise-polyfill": "^6.0.2",
     "source-map-support": "^0.4.0"
   },
   "devDependencies": {
